@@ -14,6 +14,5 @@ Implemented Knn, Neural network, Decision Tree, and Random forest algorithms for
 Evaluated the model using Accuracy score, Classification Report and Confusion Matrix. Plotted a graph which compares the accuracy of all algorithms. The best accuracy achieved is 90% by Random forest algorithm.
 ## Conclusion
 We have analyzed at what time an accident occurs, location of accidents, accidents zones, and other environmental factors which effect the severity of accidents. By giving the location details, information about the weather, time and surrounding information the classification models help one to predict whether accident would be more or less severe.
-### Challenges Faced
-The dataset was huge with 4.2 million records and contained large number of missing values. Handling this missing value with appropriate techniques has been a challenge. And selecting the algorithms and features to visualize required a close inspection of data.
-### Tools used: Google Colab
+
+
